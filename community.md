@@ -13,28 +13,46 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 ## ⚡ Current Focus Areas
 
-- **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.
-
-
-## 📸 Community in Action
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="/assets/img/KillalaEMPFlyers.png" alt="Energy Awareness Flyers" width="32%">
-
-### 📄 Download the 4-Page EM Summary 
-
-You can read or download the summary report below:
+- **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.  
+  You can read or download the summary report below:
 
 [📥 Download the Killala Energy Master Plan 4-Pager (PDF)](/assets/img/Killala%204%20Pager.pdf)
 
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan o f WattFoot Print" width="32%">
-  <img src="assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy of Mayo County Council" width="32%">
-  <img src="assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughers of SEAI" width="32%">
+## 📸 Community in Action
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/KillalaEMPFlyers.png" alt="Killala Energy Master Plan Flyer" style="width:100%; border-radius:8px;">
+    <figcaption><em>Killala’s Energy Master Plan flyer shared across the community.</em></figcaption>
+  </figure>
+
 </div>
 
-<p style="text-align:center"><em>Killala's Energy Master Plan Presentation 1st of November 2025.</em></p>
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan of WattFoot Print" style="width:100%; border-radius:8px;">
+    <figcaption><em>Su Heffernan, WattFoot Print, presenting retrofit opportunities.</em></figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy of Mayo County Council" style="width:100%; border-radius:8px;">
+    <figcaption><em>Lorna Dennehy, Mayo County Council, discussing community grants.</em></figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughes of SEAI" style="width:100%; border-radius:8px;">
+    <figcaption><em>Eve Hughes, SEAI, outlining the national SEC network and supports.</em></figcaption>
+  </figure>
+
+</div>
+
+<p style="text-align:center"><em>Speakers and participants at the Killala Energy Master Plan workshop, November 2025.</em></p>
 
 ---
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
@@ -43,6 +61,11 @@ You can read or download the summary report below:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="/assets/img/KillalaEMP_WorkshopNov2025.jpg" alt="Killala Energy Master Plan Workshop" width="32%">
+
+  
+</div>
+
+<p style="text-align:center"><em>Killala Busniess Park Energy Timeline.</em></p>
 
 ---
 
