@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Jason Mc Guire, BEng (Hons), MEngSc 
+title: Jason Mc Guire, BEng (Hons), MEngSc , PhD
 
 # Your name to show in the footer
 author: Jason Mc Guire
@@ -15,7 +15,7 @@ author: Jason Mc Guire
 
 navbar-links:
   Research: "academic"
-  Media: "media"
+  Consultancy: "consultancy"
   Community: "community"
   About Me: "aboutme"
   Resources:
@@ -30,7 +30,7 @@ navbar-links:
 avatar: "/assets/img/JasonCOP26.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -42,11 +42,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jason.mcguire@ucc.ie"
+  email: "jason.mcguire@iesve.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: jayomacg
-  twitter: jayomacg
+  #twitter: jayomacg
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
@@ -76,8 +76,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
