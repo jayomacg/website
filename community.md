@@ -22,20 +22,20 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 ## 📸 Community in Action
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan of WattFoot Print" style="width:100%; border-radius:8px;">
+    <img src="/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan – WattFoot Print" style="width:100%; border-radius:8px;">
     <figcaption style="font-size:0.9em; color:#555;"><em>Su Heffernan – WattFoot Print</em></figcaption>
   </figure>
 
   <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy of Mayo County Council" style="width:100%; border-radius:8px;">
+    <img src="/assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy – Mayo County Council" style="width:100%; border-radius:8px;">
     <figcaption style="font-size:0.9em; color:#555;"><em>Lorna Dennehy – Mayo County Council</em></figcaption>
   </figure>
 
   <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughes of SEAI" style="width:100%; border-radius:8px;">
+    <img src="/assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughes – SEAI" style="width:100%; border-radius:8px;">
     <figcaption style="font-size:0.9em; color:#555;"><em>Eve Hughes – SEAI</em></figcaption>
   </figure>
 
