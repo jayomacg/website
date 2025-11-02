@@ -10,6 +10,7 @@ title: Jason Mc Guire, BEng (Hons), MEngSc , PhD
 
 # Your name to show in the footer
 author: Jason Mc Guire
+description: "Senior Building Energy Consultant | Researcher | Community Energy Leader"
 
 # --- List of links in the navigation bar --- #
 
@@ -27,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/Jason Mc Guire (2).JPG"
+avatar: "/assets/img/Jason Mc Guire (2).JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
@@ -104,17 +105,26 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#32CD32"
-navbar-text-col: "#404040"
-navbar-border-col: "#32CD32"
+#navbar-col: "#32CD32"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#32CD32"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#32CD32"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#32CD32"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
+
+navbar-col: "#00695c"
+navbar-text-col: "#ffffff"
+navbar-border-col: "#004d40"
+footer-col: "#f4f4f4"
+footer-text-col: "#00695c"
+footer-link-col: "#333333"
+footer-hover-col: "#004d40"
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -215,7 +225,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Dublin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
