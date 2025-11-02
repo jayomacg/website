@@ -18,7 +18,7 @@ The Killala Sustainable Energy Community (SEC) brings together residents, school
 
 ## 📸 Energy Master Plan Presentation
 
-{% raw %}
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <figure style="text-align: center; width: 32%;">
@@ -37,7 +37,6 @@ The Killala Sustainable Energy Community (SEC) brings together residents, school
   </figure>
 
 </div>
-{% endraw %}
 <p style="text-align:center; margin-top:10px;"><em>Speakers at the Killala Energy Master Plan Workshop – November 2025</em></p>
 
 
