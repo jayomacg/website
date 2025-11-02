@@ -20,16 +20,8 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="/assets/img/KillalaEMPFlyers.png" alt="Energy Awareness Flyers" width="32%">
-  <a href="/assets/img/Killala%204%20Pager.pdf" target="_blank">
-    <img src="/assets/img/KillalaEMPFlyers.png" alt="Download Killala 4-Pager PDF" width="32%">
-  </a>
-</div>
 
-<p style="text-align:center"><em>Snapshots from the Energy Master Plan launch, community flyers, and summary materials.</em></p>
-
----
-
-### 📄 Download the 4-Pager
+### 📄 Download the 4-Page EM Summary 
 
 You can read or download the summary report below:
 
@@ -48,6 +40,9 @@ You can read or download the summary report below:
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
 - **Community Solar:** Exploring shared solar projects that could generate long-term savings and resilience for Killala.  
 - **District Heating & Business Park Collaboration:** Assessing opportunities to harness existing industrial heat for community benefit.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="/assets/img/KillalaEMP_WorkshopNov2025.jpg" alt="Killala Energy Master Plan Workshop" width="32%">
 
 ---
 
