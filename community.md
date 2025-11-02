@@ -13,7 +13,19 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 ## ⚡ Current Focus Areas
 
-- **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.  
+- **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.
+
+## 📸 Community in Action
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan o f WattFoot Print" width="32%">
+  <img src="assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy of Mayo County Council" width="32%">
+  <img src="assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughers of SEAI" width="32%">
+</div>
+
+<p style="text-align:center"><em>Workshops, school engagement, and solar potential studies in Killala.</em></p>
+
+---
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
 - **Community Solar:** Exploring shared solar projects that could generate long-term savings and resilience for Killala.  
 - **District Heating & Business Park Collaboration:** Assessing opportunities to harness existing industrial heat for community benefit.
