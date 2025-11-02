@@ -14,7 +14,7 @@ The Killala Sustainable Energy Community (SEC) brings together residents, school
 
 - **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.  
   You can read or download the summary report below:
-[📥 Download the Killala Energy Master Plan 4-Pager (PDF)](/assets/img/Killala%204%20Pager.pdf)
+[📥 Download the Killala Energy Master Plan 4-Pager (PDF)](https://jayomacg.github.io/website/assets/img/Killala%204%20Pager.pdf)
 
 ## 📸 Energy Master Plan Presentation
 
