@@ -15,7 +15,27 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 - **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.
 
+
 ## 📸 Community in Action
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="/assets/img/KillalaEMP_WorkshopNov2025.jpg" alt="Killala Energy Master Plan Workshop" width="32%">
+  <img src="/assets/img/KillalaEMPFlyers.png" alt="Energy Awareness Flyers" width="32%">
+  <a href="/assets/img/Killala%204%20Pager.pdf" target="_blank">
+    <img src="/assets/img/KillalaEMPFlyers.png" alt="Download Killala 4-Pager PDF" width="32%">
+  </a>
+</div>
+
+<p style="text-align:center"><em>Snapshots from the Energy Master Plan launch, community flyers, and summary materials.</em></p>
+
+---
+
+### 📄 Download the 4-Pager
+
+You can read or download the summary report below:
+
+[📥 Download the Killala Energy Master Plan 4-Pager (PDF)](/assets/img/Killala%204%20Pager.pdf)
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan o f WattFoot Print" width="32%">
