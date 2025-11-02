@@ -39,7 +39,6 @@ The Killala Sustainable Energy Community (SEC) brings together residents, school
 
 <p style="text-align:center; margin-top:10px;"><em>Speakers at the Killala Energy Master Plan Workshop – November 2025</em></p>
 
----
 
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
 - **Community Solar:** Exploring shared solar projects that could generate long-term savings and resilience for Killala.  
