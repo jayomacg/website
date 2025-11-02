@@ -23,7 +23,7 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
   <img src="assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughers of SEAI" width="32%">
 </div>
 
-<p style="text-align:center"><em>Workshops, school engagement, and solar potential studies in Killala.</em></p>
+<p style="text-align:center"><em>Killala's Energy Master Plan Presentation 1st of November 2025.</em></p>
 
 ---
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
