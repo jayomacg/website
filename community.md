@@ -25,34 +25,23 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/KillalaEMPFlyers.png" alt="Killala Energy Master Plan Flyer" style="width:100%; border-radius:8px;">
-    <figcaption><em>Killala’s Energy Master Plan flyer shared across the community.</em></figcaption>
-  </figure>
-
-</div>
-
----
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <figure style="text-align: center; width: 32%;">
     <img src="/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan of WattFoot Print" style="width:100%; border-radius:8px;">
-    <figcaption><em>Su Heffernan, WattFoot Print, presenting retrofit opportunities.</em></figcaption>
+    <figcaption style="font-size:0.9em; color:#555;"><em>Su Heffernan – WattFoot Print</em></figcaption>
   </figure>
 
   <figure style="text-align: center; width: 32%;">
     <img src="/assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy of Mayo County Council" style="width:100%; border-radius:8px;">
-    <figcaption><em>Lorna Dennehy, Mayo County Council, discussing community grants.</em></figcaption>
+    <figcaption style="font-size:0.9em; color:#555;"><em>Lorna Dennehy – Mayo County Council</em></figcaption>
   </figure>
 
   <figure style="text-align: center; width: 32%;">
     <img src="/assets/img/thumbnail_IMG_3223.jpg" alt="Eve Hughes of SEAI" style="width:100%; border-radius:8px;">
-    <figcaption><em>Eve Hughes, SEAI, outlining the national SEC network and supports.</em></figcaption>
+    <figcaption style="font-size:0.9em; color:#555;"><em>Eve Hughes – SEAI</em></figcaption>
   </figure>
 
 </div>
 
-<p style="text-align:center"><em>Speakers and participants at the Killala Energy Master Plan workshop, November 2025.</em></p>
+<p style="text-align:center; margin-top:10px;"><em>Speakers at the Killala Energy Master Plan Workshop – November 2025</em></p>
 
 ---
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
