@@ -6,8 +6,7 @@ permalink: /community/
 
 # Community Energy & Local Action
 
-The Killala Sustainable Energy Community (SEC) brings together residents, schools, and local businesses to explore how our town can transition toward a cleaner, more affordable energy future.  
-We’re part of the national SEC Network supported by the **Sustainable Energy Authority of Ireland (SEAI)**, and our focus is simple — **to make local energy work for local people.**
+The Killala Sustainable Energy Community (SEC) brings together residents, schools, and local businesses to explore how our town can transition toward a cleaner, more affordable energy future.  We’re part of the national SEC Network supported by the Sustainable Energy Authority of Ireland (SEAI), and our focus is simple — **to make local energy work for local people.**
 
 ---
 
@@ -15,12 +14,9 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 
 - **Killala Energy Master Plan (EMP):** Developing a roadmap to reduce local emissions and improve building efficiency across homes, community buildings, and the Killala Business Park.  
   You can read or download the summary report below:
-
 [📥 Download the Killala Energy Master Plan 4-Pager (PDF)](/assets/img/Killala%204%20Pager.pdf)
 
----
-
-## 📸 Community in Action
+## 📸 Energy Master Plan Presentation
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -44,6 +40,7 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 <p style="text-align:center; margin-top:10px;"><em>Speakers at the Killala Energy Master Plan Workshop – November 2025</em></p>
 
 ---
+
 - **Awareness & Engagement:** Hosting workshops, school visits, and local radio spots to help people understand energy grants, home retrofits, and renewable technologies.  
 - **Community Solar:** Exploring shared solar projects that could generate long-term savings and resilience for Killala.  
 - **District Heating & Business Park Collaboration:** Assessing opportunities to harness existing industrial heat for community benefit.
