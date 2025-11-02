@@ -22,9 +22,9 @@ The Killala Sustainable Energy Community (SEC) brings together residents, school
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <figure style="text-align: center; width: 32%;">
-    <img src="https://jayomacg.github.io/website/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan – WattFoot Print" style="width:100%; border-radius:8px;">
+    <img src="(https://jayomacg.github.io/website/assets/img/thumbnail_IMG_3212.jpg" alt="Su Heffernan – WattFoot Print" style="width:100%; border-radius:8px;">
     <figcaption style="font-size:0.9em; color:#555;"><em>Su Heffernan – WattFoot Print</em></figcaption>
-  </figure>
+  </figure> 
 
   <figure style="text-align: center; width: 32%;">
     <img src="/assets/img/thumbnail_IMG_3219.jpg" alt="Lorna Dennehy – Mayo County Council" style="width:100%; border-radius:8px;">
