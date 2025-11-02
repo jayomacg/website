@@ -19,7 +19,6 @@ We’re part of the national SEC Network supported by the **Sustainable Energy A
 ## 📸 Community in Action
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="/assets/img/KillalaEMP_WorkshopNov2025.jpg" alt="Killala Energy Master Plan Workshop" width="32%">
   <img src="/assets/img/KillalaEMPFlyers.png" alt="Energy Awareness Flyers" width="32%">
   <a href="/assets/img/Killala%204%20Pager.pdf" target="_blank">
     <img src="/assets/img/KillalaEMPFlyers.png" alt="Download Killala 4-Pager PDF" width="32%">
