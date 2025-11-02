@@ -2,7 +2,7 @@
 layout: page
 title: About me
 #subtitle: <span style="color: black">Energy Policy & Modelling Researcher and Sustainable Energy Community founder</span>
-cover-img: "/assets/img/Jason Mc Guire (2).JPG"
+cover-img: "/assets/img/GettyImages-1135947405-1-1024x512.jpg"
 ---
 
 
